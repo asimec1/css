@@ -1,0 +1,12 @@
+body {
+    background-color: #000000;
+	background-image: url("wall1.jpg");
+    background-repeat: no-repeat;
+    background-position: left bottom;
+    background-attachment: fixed;
+	color: #ffffff;
+	font-size: 20px;
+}
+p {
+	font-size: 25px;
+}
